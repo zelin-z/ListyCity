@@ -1,12 +1,13 @@
-CMPUT 301: Lab 2 Participation Exercise
+# CMPUT 301: Lab 2 Participation Exercise
 
-Student Details
-Full Name: zelin zeng
+## Student Details
+Full Name: Zelin Zeng  
 CCID: zelin11
-References and Resources
-- CMPUT 301 Lab 2 Instructions:
-- https://ualberta-cmput301.github.io/labs/lab2_instructions.html
+
+## References and Resources
+- CMPUT 301 Lab 2 Instructions
 - Android Jetpack Compose documentation
 - Lab 2 example materials
-Verbal Collaboration
-N/A 
+
+## Verbal Collaboration
+N/A
