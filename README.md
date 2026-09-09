@@ -1,8 +1,8 @@
 # CMPUT 301: Lab 2 Participation Exercise
 
 ## Student Details
-Full Name: Zelin Zeng  
-CCID: zelin11
+- Full Name: Zelin Zeng  
+- CCID: zelin11
 
 ## References and Resources
 - CMPUT 301 Lab 2 Instructions
